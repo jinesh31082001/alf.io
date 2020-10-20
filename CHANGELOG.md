@@ -1,4 +1,5 @@
 # Change Log
+Making edits
 
 ## [2.0-M1](https://github.com/alfio-event/alf.io/tree/2.0-M1) (2019-01-30)
 [Full Changelog](https://github.com/alfio-event/alf.io/compare/2.0-M0-EINVOICE-2...2.0-M1)
